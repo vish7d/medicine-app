@@ -1,5 +1,5 @@
-# Medi-stop
-### One stop for all your medical needs.
+# Pharma-Store
+### Medicine delivered at your door step.
 
 Prerequistes:
 1. Node Runtime. 
@@ -71,10 +71,3 @@ Orders information:
 <img src="https://user-images.githubusercontent.com/46806187/196982200-408dd2ca-0de0-45de-82ba-3f4b35609e4c.png" width="500px" />
 
 
-
-
-#� �m�e�d�i�c�i�n�e�-�a�p�p�
-�
-�#� �m�e�d�i�c�i�n�e�-�a�p�p�
-�
-�
